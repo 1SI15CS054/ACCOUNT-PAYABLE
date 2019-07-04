@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/fontbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/pdfbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/pdfbox-app-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/pdfbox-debugger-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/pdfbox-tools-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/preflight-app-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/Apache Jar-20190629T174319Z-001/Apache Jar/xmpbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/jar_files/fontbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/jar_files/pdfbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/ojdbc6.jar/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mnagaraj/Downloads/pdfbox-1.6.0.jar/pdfbox-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
